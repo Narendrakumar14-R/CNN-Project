@@ -44,4 +44,5 @@ Metrics are visualized using a bar chart.
 **Conclusion:**
 The code successfully implements a CNN model for optical recognition of handwritten digits. It covers all essential steps from data loading and preprocessing to model training, evaluation, and performance analysis. Visualizations aid in understanding the model's behavior and performance. Finally, comprehensive metrics provide insights into the model's effectiveness in classifying handwritten digits.
 
-![download](https://github.com/Narendrakumar14-R/CNN-Project/assets/147754023/6ad749b8-2709-4f25-824b-e764180ebe86)
+![arc](https://github.com/Narendrakumar14-R/CNN-Project/assets/147754023/3d58cfb5-48d9-4377-830f-63336b780725)
+
